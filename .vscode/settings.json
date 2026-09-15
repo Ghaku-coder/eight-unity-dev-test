@@ -67,5 +67,5 @@
         "*.sln": "*.csproj",
         "*.slnx": "*.csproj"
     },
-    "dotnet.defaultSolution": "eight-unity-dev-test-main.slnx"
+    "dotnet.defaultSolution": "eight-unity-dev-test.slnx"
 }
